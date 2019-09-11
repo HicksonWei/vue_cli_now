@@ -2,6 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue-Cli + Now App" />
+    <p>123456</p>
   </div>
 </template>
 
